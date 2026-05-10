@@ -1,0 +1,5 @@
+Bài tập 1:
+- git init: init là viết tắt của initialize (khởi tạo) => Khởi tạo repo git mới.
+- git add <file name>: thêm file cụ thể vào vùng Staging.
+- git add .: thêm tất cả các file đang có vào vùng Staging.
+- git commit -m "message": lưu lại file vào repo và kèm theo 1 tin nhắn.

@@ -1,0 +1,18 @@
+Bài tập 2:
+a. Tạo 3 file: file1, file2, file3 
+=> file1, file2, file 3 ở vùng Local.
+
+b. Chạy lệnh: git init
+=> file1, file2, file 3 ở vùng Working Repository.
+
+c. Chạy lệnh: git commit -m”init project”
+=> file1, file2, file 3 ở vùng Working Repository.
+
+d. Chạy lệnh: git add file1
+=> file2, file 3 ở vùng Working Repository, file1 ở vùng Staging Area.
+
+e. Chạy lệnh: git commit -m”add file1”
+=> file2, file 3 ở vùng Working Repository, file1 ở vùng Repository.
+
+f. Chạy lệnh: git commit -m”add file”
+=> file2, file 3 ở vùng Working Repository, file1 ở vùng Repository.
