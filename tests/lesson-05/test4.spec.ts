@@ -29,6 +29,6 @@ test('Bài thực hành 4', async ({ page }) => {
             await page.locator("//button[@id='add-note']").click();
         }
 
-        await page.locator("//input[@id='search']").fill('web');
+        await page.locator("//input[@id='search']").fill('một hoặc nhiều');
     });
 });
